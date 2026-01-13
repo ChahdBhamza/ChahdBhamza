@@ -8,37 +8,41 @@ I love building smart, practical solutions and sharing my work with the communit
 
 ### 💻 Tech Stack
 
-#### Languages & Frameworks
 ### **Languages & Tools**
 <div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" height="90" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90" height="90" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90" height="90" />
+</div>
 
 ### **Frameworks**
-
-  <!-- Frameworks & Tools -->
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="90" height="90" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="90" height="90" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="90" height="90" />
+</div>
+
 ### **Web Basics**
-  <!-- Web Basics -->
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90" height="90" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90" height="90" />
+</div>
 
+### **Databases & Tools**
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="90" height="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" height="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="90" height="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="90" height="90" />
+</div>
+
+### **Analysis Tools**
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="90" height="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="90" height="90" />
 </div>
 
 
-#### Databases & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)  
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)  
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)  
-
----
 
 ### 🚀 Projects I’m Proud Of
 
@@ -57,11 +61,7 @@ A smart **diet and nutrition app** leveraging **data analysis for personalized m
 
 ---
 
-### 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/chahd-ben-hamza-0135a7298/)  
-- ✉️ Email: benhamzachahd6@gmail.com  
 
----
 
 ### ⚡ Fun Fact
 When I’m not analyzing data or coding, I enjoy **exploring AI trends**, tinkering with small personal projects, and **learning new ways to make data tell stories**.  
@@ -69,4 +69,3 @@ When I’m not analyzing data or coding, I enjoy **exploring AI trends**, tinker
 ---
 
 *Thanks for stopping by my GitHub! Let’s build something amazing together 🚀*
-
