@@ -64,9 +64,12 @@ I love building smart, practical solutions and sharing my work with the communit
       reliability, and a smooth user experience.
     </p>
 
-  <p style="margin-top: 16px;">
-      🔗 <a href="[https://github.com/YourUsername/SecureBoxini](https://github.com/ChahdBhamza/Secure-Boxini)">View GitHub Repository</a>
-    </p>
+<p style="margin-top: 16px;">
+  🔗 <a href="https://github.com/ChahdBhamza/Secure-Boxini" target="_blank" style="color:#58a6ff; text-decoration:none;">
+    View GitHub Repository →
+  </a>
+</p>
+
   </div>
 
   <!-- Dietopia -->
@@ -87,8 +90,11 @@ I love building smart, practical solutions and sharing my work with the communit
 </p>
 
   <p style="margin-top: 16px;">
-      🔗 <a href="[https://github.com/YourUsername/dietopia](https://github.com/ChahdBhamza/Dietopia)">View GitHub Repository</a>
-    </p>
+  🔗 <a href="https://github.com/ChahdBhamza/Dietopia" target="_blank" style="color:#58a6ff; text-decoration:none;">
+    View GitHub Repository →
+  </a>
+</p>
+
 
     
   </div>
