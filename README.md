@@ -65,7 +65,7 @@ I love building smart, practical solutions and sharing my work with the communit
     </p>
 
   <p style="margin-top: 16px;">
-      🔗 <a href="https://github.com/YourUsername/SecureBoxini">View GitHub Repository</a>
+      🔗 <a href="[https://github.com/YourUsername/SecureBoxini](https://github.com/ChahdBhamza/Secure-Boxini)">View GitHub Repository</a>
     </p>
   </div>
 
@@ -87,7 +87,7 @@ I love building smart, practical solutions and sharing my work with the communit
 </p>
 
   <p style="margin-top: 16px;">
-      🔗 <a href="https://github.com/YourUsername/dietopia">View GitHub Repository</a>
+      🔗 <a href="[https://github.com/YourUsername/dietopia](https://github.com/ChahdBhamza/Dietopia)">View GitHub Repository</a>
     </p>
 
     
