@@ -9,13 +9,17 @@ I love building smart, practical solutions and sharing my work with the communit
 ### 💻 Tech Stack
 
 #### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
+#### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
 
 #### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  
